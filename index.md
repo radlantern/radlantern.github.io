@@ -1,0 +1,3 @@
+# Yet another blog about computer things...
+
+You may also wish to view my portfolio site [Agilepro.com](http://www.agilepro.com)
