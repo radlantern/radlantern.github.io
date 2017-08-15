@@ -1,3 +1,6 @@
-# Yet another blog about computer things...
-
-You may also wish to view my portfolio site [Agilepro.com](http://www.agilepro.com)
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
